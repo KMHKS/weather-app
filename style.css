@@ -9,3 +9,10 @@ img {
   border-radius: 20px;
   margin: 20px auto;
 }
+
+.btn {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  border-radius: 10px;
+}
